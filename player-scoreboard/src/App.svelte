@@ -7,7 +7,7 @@
 		name: "Matt",
 		points: 3
 	},
-	//the unicor queen
+	//the unicorn queen
 	{	name: "🦄Aneta👑",
 		points:12}
 		,
